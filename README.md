@@ -45,4 +45,5 @@ As Grace Hopper said:
 _This will be also be italic_
 
 **This text will be bold**  
-__This will be also be bold__
+__This will be also be bold__  
+*You* **can** combine them
