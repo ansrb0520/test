@@ -24,3 +24,4 @@ Ordered
 
 이미지
 ![image test](/images/image1.png)
+<a href="https://github.com/ansrb0520/test/images/image1.png" alt="image1" width="200px"></a>
