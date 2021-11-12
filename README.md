@@ -21,3 +21,6 @@ Ordered
 	1. Item 3b
 
 강제개행  
+
+이미지
+![image test](/images/image1.png)
