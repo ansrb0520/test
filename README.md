@@ -63,3 +63,8 @@ Content column 1 | Content column 2
 - [ ] this is an incomplete item
 - [x] @mensions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
+
+
+인라인 코드(Inline code)
+문단 중간에 `code`를 넣을 수 있습니다.
+예를 들어 `printf("hello world!");` 이런 식으로 들어갑니다.
