@@ -66,5 +66,11 @@ Content column 1 | Content column 2
 
 
 인라인 코드(Inline code)
-문단 중간에 `code`를 넣을 수 있습니다.
+문단 중간에 `code`를 넣을 수 있습니다.  
 예를 들어 `printf("hello world!");` 이런 식으로 들어갑니다.
+
+
+수평선(hr)
+---
+***
+___
