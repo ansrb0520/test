@@ -35,10 +35,12 @@ function test() {
 }
 ```
 
+
 인용 문구(Blockquotes)
 As Grace Hopper said:
 > I've always been more interested.
 > in the future than in the past.
+
 
 강조(Emphasis)  
 *This text will be italic*  
@@ -48,8 +50,16 @@ _This will be also be italic_
 __This will be also be bold__  
 *You* **can** combine them
 
+
 테이블(TABLES)
 FirstHeader | SecondHeader
 ------------|-------------
 Content cell 1 | Content cell 2
 Content column 1 | Content column 2
+
+
+체크 박스(Task Lists)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mensions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
