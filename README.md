@@ -76,8 +76,11 @@ Content column 1 | Content column 2
 ___
 
 
-탈출문자
+탈출문자  
 \*literal asterisks\*  
 *literal *  
-__\*\*Text\*\*__
-_\_Tom_\_
+__\*\*Text\*\*__  
+_\_Tom_\_  
+
+
+
