@@ -47,3 +47,9 @@ _This will be also be italic_
 **This text will be bold**  
 __This will be also be bold__  
 *You* **can** combine them
+
+테이블(TABLES)
+FirstHeader | SecondHeader
+------------|-------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
