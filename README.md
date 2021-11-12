@@ -27,3 +27,10 @@ Ordered
 <a href="#"><img src="https://github.com/ansrb0520/test/blob/main/images/image1.png" alt="image1" width="200px" /></a>
 
 [링크 이름](http://github.com "깃허브")
+
+코드 블럭
+```javascript
+function test() {
+	console.log("hello world")
+}
+```
