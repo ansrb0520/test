@@ -90,6 +90,6 @@ Github supports emoji!
 
 
 배지(badge) 만들기  
-/apm/1/:packageName.svg  
+<a href="#"><img src="https://img.shields.io/badge/license-mit-yellowgreen" alt="badge" /></a>
 
 
