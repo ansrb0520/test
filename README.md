@@ -87,3 +87,9 @@ _\_Tom_\_
 Github supports emoji!  
 :+1: :sparkles: :camel: :tada:  
 :rocket: :metal: :octocat:
+
+
+배지(badge) 만들기  
+/apm/1/:packageName.svg  
+
+
